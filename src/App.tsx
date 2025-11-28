@@ -390,7 +390,6 @@ export default function App() {
                <ul className="space-y-4 text-sm font-serif">
                   <li><a href="#" className="hover:text-amber-600 hover:italic transition-all">New Arrivals</a></li>
                   <li><a href="#" className="hover:text-amber-600 hover:italic transition-all">Best Sellers</a></li>
-                  <li><a href="#" className="hover:text-amber-600 hover:italic transition-all"></a></li>
                </ul>
             </div>
 
@@ -407,7 +406,7 @@ export default function App() {
                <div className="flex gap-3 items-start text-sm font-serif">
                   <MapPin size={16} className="mt-1 shrink-0" />
                   <address className="not-italic">
-                     Rawling Park - Accra<br/> +233 55 256 6834
+                     Rawlings Park - Accra<br/>+233 55 256 6834
                   </address>
                </div>
             </div>
